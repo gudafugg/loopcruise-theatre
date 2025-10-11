@@ -1,0 +1,39 @@
+.dlg-wrap {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 5%;
+  display: flex;
+  justify-content: center;
+}
+
+.dlg-box {
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 12px;
+  padding: 20px 24px;
+  max-width: 800px;
+  width: 80%;
+  color: #fff;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.dlg-speaker {
+  font-weight: bold;
+  font-size: 18px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  padding-bottom: 6px;
+}
+
+.dlg-text {
+  font-size: 16px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  min-height: 1.5em;
+}
+
+.dlg-text:empty::before {
+  content: '\00a0';      
+}
