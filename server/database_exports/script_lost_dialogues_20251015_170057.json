@@ -1,0 +1,154 @@
+{
+  "script_info": {
+    "title": "《迷失》",
+    "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+    "total_dialogues": 18,
+    "export_time": "2025-10-15T17:00:57.683136"
+  },
+  "dialogues": [
+    {
+      "id": "64f24c32-60e9-4933-b87c-d4e71992d4ff",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[小白说]: 旺旺旺旺。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.670880",
+      "metadata": "{\"speaker\": \"小白\", \"scene\": \"主人公醒来时\", \"sequence\": 1, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "0a5f86fc-e45a-46a1-a988-5bac7271172a",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 你醒了？",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.671505",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"地下室初次相遇\", \"sequence\": 2, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "06b78f47-cf96-49a2-b4f3-b35f4a4ebddd",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 我叫汤尚，我从周三那里听说了你们七个人格的事情，你是周二？",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.672020",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"自我介绍\", \"sequence\": 3, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "31cb8b23-2e76-48c0-87d7-258a61ebac73",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[周二说]: 嗯，我是周二，这是哪里？我就只记得我被人迷晕然后其他的事情我记不清了，这几天发生了什么？",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.672522",
+      "metadata": "{\"speaker\": \"周二\", \"scene\": \"询问情况\", \"sequence\": 4, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "5d49797c-8935-4e06-954b-70bd47108d28",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 我在公园里面玩的时候走到了一个小山丘的后面，然后就感觉被人捂住了口鼻，随后意识模糊，就被绑架到这里了，在我来到这里的第二天你就被绑架过来了，我也不知道这是哪里，每天都有一个带着猪八戒的面具的人来给我们送饭，好像就是他把我们绑架到这里来的，他好像已经完全掌握了我们家里的联系方式，并且索要了一大笔钱财，但是不知道为什么还没有把我们放走，但是还好这个带着猪八戒面具的男人好像没有想伤害我们。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.672993",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"解释绑架情况\", \"sequence\": 5, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "69fe2b07-c51e-4891-86a2-ced97ee42eda",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[周二说]: 你这是什么意思？不来帮忙还嘲笑我？你难道不想出去吗？",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.674456",
+      "metadata": "{\"speaker\": \"周二\", \"scene\": \"尝试撞门失败后的愤怒\", \"sequence\": 6, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "cfc37477-411f-4b44-94d7-ccd864e4be27",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 你们七个虽然是不同的七种人格，但是基本上醒来之后的都差不多，我的这些话在这几天里也已经重复说过好多遍了。我是想劝你别费力气了，那扇门是撞不开了，我们想要逃走也要像别的办法。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.675302",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"劝阻撞门\", \"sequence\": 7, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "0977885f-254d-4e2f-891a-34d054261bed",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[绑架犯说]: 吃吧。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.675910",
+      "metadata": "{\"speaker\": \"绑架犯\", \"scene\": \"送饭时刻\", \"sequence\": 8, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "6f91300e-7fd7-42fb-95de-0118fd1060f6",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 没事儿，他不会伤害我们的，自从来到这里已经差不多一个多星期了，他一直都是这样的，话不多说，每次都是过来送一个塑料袋的吃的然后就走了，基本上不会向我们透露一点点的信息，一开始还会向他问一些什么，但是他根本就不会理会我们说的话的。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.676773",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"安慰周二\", \"sequence\": 9, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "ce701fce-d5b6-4541-a67b-7c0aa4cb37a0",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 吃吧。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.677677",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"分享食物\", \"sequence\": 10, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "cad24c4f-5b66-4f98-bca8-42d5fad1ced3",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 周五出去过的，那天那个绑架我们的人把周五绑出去了，周五回来的时候和我讲，那个绑架的人让他看了你们父母的在医院的一段视频，你们的母亲有了新的孩子，猪头脸还在一旁恐吓他，说如果你们的父母不愿意拿出赎金的话来救人的话，就会撕票。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.678471",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"透露重要信息\", \"sequence\": 11, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "5b256c33-c9a0-4322-8458-600b6ea618ef",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 对不起，我知道这个消息对你来说很不可思议，但是周五要我一定要和你们都说，他说毕竟这是你们一起要面对的事情。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.679172",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"道歉安慰\", \"sequence\": 12, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "09de1e81-ce52-4292-b2e8-aab85e6bb7dd",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[周二说]: 我知道，还是谢谢你，如果没有你，我们肯定在这里过的更艰难，着空荡荡的昏暗的房间里面，起码还有一个人和我们一起，真的谢谢你。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.679775",
+      "metadata": "{\"speaker\": \"周二\", \"scene\": \"表达感谢\", \"sequence\": 13, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "784d736a-8ef6-4f21-953b-66e527d31af6",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 周二，快点儿起来，我们已经找到了逃出去的办法。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.680388",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"叫醒周二准备逃跑\", \"sequence\": 14, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "e6018d3f-33dc-4e51-a76e-f4258985cf5f",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[周二说]: 到底发生了什么？现在是晚上了吗？",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.680963",
+      "metadata": "{\"speaker\": \"周二\", \"scene\": \"疑惑询问\", \"sequence\": 15, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "53ddf9d2-1a6b-4001-b18b-c3e75d76bb91",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[汤尚说]: 已经又过的一个星期了，在这一个星期里面发生了很多的事情，猪头脸会不定时的把我们拽到楼上去，周一偷到了备用钥匙，我们要趁着猪头脸还没察觉出来赶紧逃走。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.681472",
+      "metadata": "{\"speaker\": \"汤尚\", \"scene\": \"解释逃跑计划\", \"sequence\": 16, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "9b840ab7-133c-477b-9852-33825c351bab",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[绑架犯说]: 你们两个站住，你们跑不掉的。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.682042",
+      "metadata": "{\"speaker\": \"绑架犯\", \"scene\": \"追赶逃跑者\", \"sequence\": 17, \"script_title\": \"《迷失》\"}"
+    },
+    {
+      "id": "ebfa97a3-7f7b-40f0-bfbf-a34696880565",
+      "session_id": "052c4bfc-bb8f-41a0-9b8f-db3fcbf088d5",
+      "content": "[妈妈说]: 宝贝，你醒了，你终于醒来了，医生说只要醒过来了就是没事儿了。",
+      "role": "dialogue",
+      "timestamp": "2025-10-15 17:00:57.682489",
+      "metadata": "{\"speaker\": \"妈妈\", \"scene\": \"医院醒来\", \"sequence\": 18, \"script_title\": \"《迷失》\"}"
+    }
+  ]
+}
